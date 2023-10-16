@@ -1,4 +1,4 @@
-- 👋 Hello. This is @xionche, a master students, and my friend call me chen.
+- 👋 Hello. This is @xionche, a master students, and my friends call me chen.
 - 🌱 I’m currently learning CSEM geophysics forward stimulation in frequency domain. 
 
 <!---
