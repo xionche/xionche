@@ -1,5 +1,5 @@
 - 👋 Hello. This is @xionche, a master students, and my friends call me chen.
-- 🌱 I’m currently learning CSEM geophysics forward stimulation in frequency domain. 
+- 🌱 I’m currently learning CSEM data processing. 
 
 <!---
 xionche/xionche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
